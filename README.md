@@ -39,6 +39,6 @@ $GNOSH
 5.   Follow the hashtags from point 2 so you can interact with them
 6.   Interactions are very important
 
-If you follow the hashtags, you will get to see each tweet that contains those hashtags
+     If you follow the hashtags, you will get to see each tweet that contains those hashtags
 - Make a comment on them, like and RT them so Twitter algorithm reads them as valuable tweets
 - You can just RT them or quote them with some catchy phrase. Don't use more then 2-3 hashtags with that phrase or it might be seen as spam. 
