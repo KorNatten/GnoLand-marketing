@@ -6,39 +6,44 @@
 
 2.   Use some hashtags related to GnoLand
 
-#GnoLand  
-#Gnomes  
-#GnoLang  
-#GnoYourWorth  
-#GnoWorldOrder  
-#Gnot  
-#Gnosh  
-$GNOT  
-$GNOSH
+     - #GnoLand  
+     - #Gnomes  
+     - #GnoLang  
+     - #GnoYourWorth  
+     - #GnoWorldOrder  
+     - #Gnot  
+     - #Gnosh  
+     - $GNOT  
+     - $GNOSH
 
 3.   You can also use some hastags to attract developers
 
-#golang -> Twitter has a bot that RT's all tweets with #golang automatically and many devs follow it  
-#godev  
-#godeveloper  
-#godevs  
-#godevelopers  
-#go  
-#goland -> Online courses for Go devs
+     - #golang -> Twitter has a bot that RT's all tweets with #golang automatically and many devs follow it  
+     - #godev  
+     - #godeveloper  
+     - #godevs  
+     - #godevelopers  
+     - #go  
+     - #goland -> Online courses for Go devs
 
 4.   Good marketing practice to attract other communities, is putting 1 hashtag in your tweet related to blockchain/crypto
 
-#crypto  
-#blockchain  
-#blockchaintechnology  
-#cryptoproject  
-#cryptonews  
-#IBCgang  
-...... another chain, another project, use your imagination
+     - #crypto  
+     - #blockchain  
+     - #blockchaintechnology  
+     - #cryptoproject  
+     - #cryptonews  
+     - #IBCgang  
+     - ... another chain, another project, use your imagination
 
 5.   Follow the hashtags from point 2 so you can interact with them
 6.   Interactions are very important
 
-     If you follow the hashtags, you will get to see each tweet that contains those hashtags
-- Make a comment on them, like and RT them so Twitter algorithm reads them as valuable tweets
-- You can just RT them or quote them with some catchy phrase. Don't use more then 2-3 hashtags with that phrase or it might be seen as spam. 
+     * If you follow the hashtags, you will get to see each tweet that contains those hashtags
+       - Make a comment on them, like and RT them so Twitter algorithm reads them as valuable tweets
+       - You can just RT them or quote them with some catchy phrase. Don't use more then 2-3 hashtags with that phrase or it might be seen as spam. 
+
+7.   Never copy a tweet from someone else to tweet it yourself, you could both be shadowbanned or seen as bots.
+8.   Images attract people, make a positive meme or graphic
+9.   Never write something bad about another project in the same tweet as you write about GnoLand, it's bad practice. Use your opinions about other projects in a seperate        tweet, if you wish to do so.
+10.   Be carefull with combining unofficial projects on GnoLand while tweeting about GnoLand. If they are not officially endorsed by the GnoLand team, it means they are seperate projects and devs.
